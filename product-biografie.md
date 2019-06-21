@@ -13,6 +13,10 @@
 ## Week 0
 *20-5*
 
+- Briefing Project
+- Scope definiëren
+- Onderzoek huidige situatie
+
 Omdat dit project in samenwerking met de UX minor was begon ons project al in de laatste herkansingsweek van de webdev minor.
 In deze week begonnen wij al met de (de)briefing van het project, het team leren kennen en het bepalen van de scope van het project.
 
@@ -23,6 +27,10 @@ In deze week zijn wij toen bezig geweest met onderzoek naar het huidige en vorig
 
 ## Week 1
 *27-5*
+
+- Project voorstel
+- Onderzoek huidige situatie en prioriteiten
+- Onderzoek huidige tech stack
 
 In deze week hebben wij ons plan om het platform te herontwerpen bij de opdrachtgever neergelegd in een presentatie met onze bevindingen.
 Hierop kregen wij een positieve reactie van de klant.
@@ -37,6 +45,13 @@ Door deze conclusie hebben wij besloten een eigen proof of concept demo te maken
 
 ## Week 2
 *03-06*
+
+- Onderzoek Alice project shifters
+- Eerste iteratie tech stack
+- Eerste demo pagina's
+- Heroverweging eerste stack
+- Keuze design system(Material design)
+
 
 Deze week stond ook nog in het thema van onderzoek doen. We hebben contact gezocht met zoveel mogelijk mensen die bij CERN hebben gewerkt aan het ALICE project via linkedin en ander platformen om zo zoveel mogelijk gebruikers input mee te kunnen nemen.
 Ook werden deze week de eerste wireframes opgeleverd door de UX-designers en zijn wij begonnen met het opzetten van een tech stack
@@ -67,11 +82,16 @@ Het zelf bouwen van een design system viel niet binnen onze scope van het projec
 Ook is visuele identiteit niet heel belangrijk binnen dit platform, maar usabillity en herkenbaarheid is wel een belangrijke factor.
 
 
-Na het uitwerken van het eerste prototype voor het projetc merkte wij dat deze stack misschien niet de beste keuze was voor het platform dat wij willen bouwen.
+Na het uitwerken van het eerste prototype voor het project merkte wij dat deze stack misschien niet de beste keuze was voor het platform dat wij willen bouwen.
 Dit lag eraan dat de flow van data etc. binnen handlebars en het schrijven van helper functies vrij omslachtig was voor de schaal van het project en hebben wij besloten om de volgende week de stack opnieuw door te denken.
 
 ## Week 3
 *10-06*
+
+- Evaluatie eerste wireframes
+- Onderzoek nieuwe Stack
+- Keuze nieuwe Stack
+- Uitwerken proof of concept demo
 
 In deze week kwamen er meer designs en wireframes binnen van onze UX-designers om uit te werken.
 
@@ -105,6 +125,10 @@ Nu het process van development echt begon te lopen kwam er een pijnpunt aan het 
 
 ## Week 4
 *17-06*
+
+- User tests
+- Doorontwikkelen prototype
+- Documentatie
 
 Deze week zij onze UX-desigers bezig gegaan met het testen van de wireframes met OA. eye-tracking om het design te valideren.
 
