@@ -17,13 +17,12 @@
 - Scope definiëren
 - Onderzoek huidige situatie
 
-Omdat dit project in samenwerking met de UX minor was begon ons project al in de laatste herkansingsweek van de webdev minor.
-In deze week begonnen wij al met de (de)briefing van het project, het team leren kennen en het bepalen van de scope van het project.
+Omdat dit project in samenwerking met de UX minor was begon ons project al in de laatste herkansingsweek van de webdev minor. In deze week begonnen wij al met de (de)briefing van het project, het team leren kennen en het bepalen van de scope van het project.
 
-Bij de briefing van het project op de maandag kwamen wij er achter dat de klant een ander beeld had van onze werkzaamheden dan wij zelf hadden. De klant had het beeld dat wij aan hun backlog zouden gaan werken en functies toevoegen in hun platform.
-Ons beeld van het project was het dat wij bezig gingen met het ontwerp en de UX van het platform waar het team van ICT een start aan had gemaakt.
+Bij de briefing van het project op de maandag kwamen wij erachter dat de klant een ander beeld had van onze werkzaamheden dan wij zelf hadden. De klant had het beeld dat wij aan hun backlog zouden gaan werken en functies toevoegen in hun platform. Ons beeld van het project was het dat wij bezig gingen met het ontwerp en de UX van het platform waar het team van ICT een start aan had gemaakt.
 
-In deze week zijn wij toen bezig geweest met onderzoek naar het huidige en vorige platform dat bij cern gebruikt werd en hebben een plan gemaakt met de werkzaamheden waar wij ons mee bezig gingen houden om het platfrom plesurable te maken voor de gebruikers.
+In deze week zijn wij toen bezig geweest met onderzoek naar het huidige en vorige platform dat bij cern gebruikt werd en hebben een plan gemaakt met de werkzaamheden waar wij ons mee bezig gingen houden om het platform pleasurable te maken voor de gebruikers.
+
 
 ## Week 1
 *27-5*
@@ -72,18 +71,13 @@ De eerste stack die wij samengesteld hebben bestond uit:
 - D3
 - Material design
 
-We hebben deze keuze gemaakt omdat het bestond uit voor ons bekende packages en frameworks.
-Voor de server hadden we een basic express server met handlebars als templating engine en websockets voor realstime data distributie naar de Client.
+We hebben deze keuze gemaakt omdat het bestond uit voor ons bekende packages en frameworks. Voor de server hadden we een basic express server met handlebars als templating engine en websockets voor real time data distributie naar de Client.
 
 Op de client hadden wij websockets voor het verwerken van realtime data en D3 voor het visualiseren van data op het dashboard.
 
-Na overleg met onze UX-designers hebben wij besloten Material design te gebruiken als design system binnen het platform. Deze keuze is tot stand gekomen door de aard van het project. Het jiskefet project is een project dat een wisselende samenstelling heeft van teams die er aan werken, voornamelijk bestaand uit ICT studenten. Door de wisselende opstelling binnen het project is het wel belangrijk dat er consistentie en houvast is met een duidelijke documentatie voor de volgende teams.
-Het zelf bouwen van een design system viel niet binnen onze scope van het project en daardoor hebben wij gekeken naar een bestaand design system met goede documentatie dat herkenbaar is voor gebruikers.
-Ook is visuele identiteit niet heel belangrijk binnen dit platform, maar usabillity en herkenbaarheid is wel een belangrijke factor.
+Na overleg met onze UX-designers hebben wij besloten Material design te gebruiken als design system binnen het platform. Deze keuze is tot stand gekomen door de aard van het project. Het jiskefet project is een project dat een wisselende samenstelling heeft van teams die er aan werken, voornamelijk bestaand uit ICT studenten. Door de wisselende opstelling binnen het project is het wel belangrijk dat er consistentie en houvast is met een duidelijke documentatie voor de volgende teams. Het zelf bouwen van een design system viel niet binnen onze scope van het project en daardoor hebben wij gekeken naar een bestaand design system met goede documentatie dat herkenbaar is voor gebruikers. Ook is visuele identiteit niet heel belangrijk binnen dit platform, maar usability en herkenbaarheid is wel een belangrijke factor.
 
-
-Na het uitwerken van het eerste prototype voor het project merkte wij dat deze stack misschien niet de beste keuze was voor het platform dat wij willen bouwen.
-Dit lag eraan dat de flow van data etc. binnen handlebars en het schrijven van helper functies vrij omslachtig was voor de schaal van het project en hebben wij besloten om de volgende week de stack opnieuw door te denken.
+Na het uitwerken van het eerste prototype voor het project merkte wij dat deze stack misschien niet de beste keuze was voor het platform dat wij willen bouwen. Dit lag eraan dat de flow van data etc. binnen handlebars en het schrijven van helper functies vrij omslachtig was voor de schaal van het project en hebben wij besloten om de volgende week de stack opnieuw door te denken.
 
 ## Week 3
 *10-06*
@@ -119,9 +113,9 @@ De nieuwe stack bestaat uit:
 
 Na het samenstellen van de stack hebben wij gekeken naar een userflow die wij wilde uitwerken voor het proof of concept prototype van jiskefet en hebben wij de pagina's verdeeld om uit te werken. Marcel heeft zich gefocust op het dashboard en ik ben bezig gegaan met de overview pagina's van de logs en runs en de flow van data door de components en applicatie
 
-Deze week ben ik veel bezig geweest met het uizoeken van de flow van data tussen components en states binnen react en hoe ik dat kon beinvloeden. Dit bleek een vrij tijdrovend process te zijn met een hoge learningcurve, maar met gebruik van de documentatie goed uit te zoeken.
+Deze week ben ik veel bezig geweest met het uitzoeken van de flow van data tussen components en states binnen react en hoe ik dat kon beïnvloeden. Dit bleek een vrij tijdrovend process te zijn met een hoge learning curve, maar met gebruik van de documentatie goed uit te zoeken.
 
-Nu het process van development echt begon te lopen kwam er een pijnpunt aan het licht waar wij zelf geen invloed op hebben. Bij het team van ICT blijken er constant problemen te onstaan met de API waardoor de flow van data niet betrouwbaar is. Bijna op dagelijkse basis begeeft de API en de data is niet compleet, hierdoor hebben wij de knoop doorgehakt en heeft Marcel een eigen API geschreven om een stabiele flow van data te hebben binnen de applicatie.
+Nu het process van development echt begon te lopen kwam er een pijnpunt aan het licht waar wij zelf geen invloed op hebben. Bij het team van ICT blijken er constant problemen te ontstaan met de API waardoor de flow van data niet betrouwbaar is. Bijna op dagelijkse basis begeeft de API en de data is niet compleet, hierdoor hebben wij de knoop doorgehakt en heeft Marcel een eigen API geschreven om een stabiele flow van data te hebben binnen de applicatie.
 
 ## Week 4
 *17-06*
@@ -132,7 +126,7 @@ Nu het process van development echt begon te lopen kwam er een pijnpunt aan het 
 - Doorontwikkelen prototype
 - Documentatie
 
-Deze week zij onze UX-desigers bezig gegaan met het testen van de wireframes met OA. eye-tracking om het design te valideren.
+Deze week zijn onze UX-designers bezig gegaan met het testen van de wireframes met OA. eye-tracking om het design te valideren.
 
 Op dinsdag hebben wij een call gehad met CERN en het team dat daar deze week zat om het project te bespreken. Bij de presentatie van het nieuwe ontwerp kwamen positieve reacties over het design, maar ook nog wat vragen en opmerkingen over bepaalde manieren waarop informatie weergegeven werd.
 
@@ -145,9 +139,9 @@ Tegen het einde van deze week waren de meeste functionaliteiten rond en kwam de 
 
 - Laatste tests
 - Afronding product
-- Presentatieklaar maken
+- Presentatie klaar maken
 
 De laatste loodjes van het project waren aangebroken en door onze planning konden wij begin van deze week de laatste stappen doen voor het prototype van ons proof of concept. Op maandag is er door ons team ook getest met iemand die vaker met dit soort grote systemen werkt om te kijken hoe hij dit ervaart.
 
 Voor de uitwerking van het prototype zijn wij bezig geweest met wat laatste aanpassingen van onze api om gemaakte logs daar goed aan toe te voegen na het opslaan van een log.
-Verder zijn wij bezig gegaan met alles presentatieklaar maken voor de markt op de donderdag.
+Verder zijn wij bezig gegaan met alles presentatie klaar maken voor de markt op de donderdag.
