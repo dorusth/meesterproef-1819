@@ -1,6 +1,6 @@
 # Product Biografie
 
-![dashboard](./img/dashboard.png)
+![dashboard](./img/image.png)
 
 ## Inhoud
 - [Week 0](#Week0)
@@ -93,6 +93,8 @@ Dit lag eraan dat de flow van data etc. binnen handlebars en het schrijven van h
 - Keuze nieuwe Stack
 - Uitwerken proof of concept demo
 
+[Verdere uitleg stack](./design-rationale.md)
+
 In deze week kwamen er meer designs en wireframes binnen van onze UX-designers om uit te werken.
 
 Na de conclusie van de vorige week over de tech stack zijn wij op zoek gegaan naar een andere setup die toepasselijk was voor het platform.
@@ -108,12 +110,10 @@ Deze stack bevat bijna alle delen die nodig waren binnen ons platform, maar deze
 De nieuwe stack bestaat uit:
 #### Server
 - Next.js
-- Socket.io
 
 #### Client
 - React
 - React-dom
-- Socket.io
 - D3
 - Material design als design system
 
@@ -125,6 +125,8 @@ Nu het process van development echt begon te lopen kwam er een pijnpunt aan het 
 
 ## Week 4
 *17-06*
+
+![eye tracking](./img/eyetracking.png)
 
 - User tests
 - Doorontwikkelen prototype
@@ -140,3 +142,12 @@ Tegen het einde van deze week waren de meeste functionaliteiten rond en kwam de 
 
 ## Week 5
 *24-06*
+
+- Laatste tests
+- Afronding product
+- Presentatieklaar maken
+
+De laatste loodjes van het project waren aangebroken en door onze planning konden wij begin van deze week de laatste stappen doen voor het prototype van ons proof of concept. Op maandag is er door ons team ook getest met iemand die vaker met dit soort grote systemen werkt om te kijken hoe hij dit ervaart.
+
+Voor de uitwerking van het prototype zijn wij bezig geweest met wat laatste aanpassingen van onze api om gemaakte logs daar goed aan toe te voegen na het opslaan van een log.
+Verder zijn wij bezig gegaan met alles presentatieklaar maken voor de markt op de donderdag.
